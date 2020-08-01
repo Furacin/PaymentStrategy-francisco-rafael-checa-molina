@@ -1,1 +1,1 @@
-PaymentStrategy-francisco-rafael-checa-molina
+PaymentStrategy exercise resolution
